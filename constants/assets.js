@@ -7,7 +7,7 @@ import slika01 from "../assets/images/slika01.png";
 import slika02 from "../assets/images/slika02.jpg";
 import slika03 from "../assets/images/slika03.jpg";
 
-import video01 from "../assets/videos/video01.mp4";
+import video01 from "../assets/videos/video01.m4v";
 
 import police from "../assets/icons/police.png";
 import hospital from "../assets/icons/hospital.png";
