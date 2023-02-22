@@ -48,14 +48,15 @@ const DetailsDesc = ({ data }) => {
         <View
           style={{
             flex: 1,
-            backgroundColor: COLORS.primary,
+            backgroundColor: COLORS.white,
             alignItems: "center",
             justifyContent: "center",
           }}
         >
           <Video
             ref={video}
-            style={{ flex: 1, alignSelf: "stretch", width: 320, height: 320 }}
+            style={{ flex: 1, alignSelf: "stretch", width: "100%",
+              height: 450 }}
             source={data.video}
             useNativeControls
             resizeMode="contain"
