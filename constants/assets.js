@@ -8,6 +8,8 @@ import slika02 from "../assets/images/slika02.jpg";
 import slika03 from "../assets/images/slika03.jpg";
 
 import video01 from "../assets/videos/video01.m4v";
+import video02 from "../assets/videos/video02.mp4";
+import video03 from "../assets/videos/video03.mp4";
 
 import police from "../assets/icons/police.png";
 import hospital from "../assets/icons/hospital.png";
@@ -23,7 +25,8 @@ export default {
   slika03,
 
   video01,
-
+  video02,
+  video03,
   police,
   hospital,
   firefighters,

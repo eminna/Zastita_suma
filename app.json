@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "fire_app",
+    "name": "Vatrogasci Gimnazije Mostar",
     "slug": "fire_app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/app_icon.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -20,7 +20,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/app_icon.png",
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.gimnazija.fire.app"
